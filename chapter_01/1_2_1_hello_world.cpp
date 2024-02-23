@@ -17,5 +17,5 @@ double square(double x)
 
 void print_square(double x)
 {
-    std::cout << "the square of " << x << " is " << square(x) << "\n";
+    cout << "the square of " << x << " is " << square(x) << "\n";
 }
