@@ -8,7 +8,7 @@ public:
         delete[] elem;
     }
 
-    double& operator[](int i) {
+    double &operator[](int i) {
         return elem[i];
     }
 
